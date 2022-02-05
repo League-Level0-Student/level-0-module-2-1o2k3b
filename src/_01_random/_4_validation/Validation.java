@@ -15,8 +15,11 @@ public class Validation {
 		int randomNumber = randomMaker.nextInt(5);
 		
 		System.out.println(randomNumber);
-
+int number = 0;
 		// 1. Use each value of randomNumber to give the user a random compliment.
+if (randomMaker == 0) {
+	System.out.println("You rock");
+}   else System.out.println();
 
 		// 2. Repeat all the code above 10 times
 		
