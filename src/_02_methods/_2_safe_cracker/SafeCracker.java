@@ -32,7 +32,7 @@ public class SafeCracker {
 		for(int i = 0; i < 9_999_999; i++) {
 			tryCode(i);
 		}
-
+                       
 	}
 
 	 void tryCode(int guess) {
