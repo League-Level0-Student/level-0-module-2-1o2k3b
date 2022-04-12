@@ -35,8 +35,8 @@ public class AnimalFarm {
 				moo();
 			}
 			if (answer.equals("duck")) {
-				quack();
-			}
+			;
+				quack()}
 			if (answer.equals("dog")) {
 				woof();
 			}
